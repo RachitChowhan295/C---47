@@ -1,0 +1,6 @@
+Debug: 
+1.check the timer logic
+
+Pending:
+
+1.update the logic for pacman eating the monsters, based on timer
